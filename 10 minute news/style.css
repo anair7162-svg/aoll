@@ -1,0 +1,175 @@
+.Header{
+width: 800px;
+height: 80px;
+margin-left: 20%;
+background-color: #737373;
+position: relative;
+}
+
+.color{
+background-color: rgb(255, 255, 255);
+background-image: url("https://wallup.net/wp-content/uploads/2015/06/abstract-minimalistic-text-typography-grayscale-focused-into-newspaper.jpg") ;
+
+max-width: 100%;
+max-height: 100%;
+overflow-x: hidden;
+overflow-y: auto;
+}
+
+.button-page{
+height: 10px;
+width: 160px;
+border-width: 0px;
+background-color: #737373;
+position: relative;
+top: -28px;
+
+}
+html, body {
+max-width: 100%;
+overflow-x: hidden;
+}
+
+.Prev-Button{
+    background-color: #737373;
+    border-width: 0px;
+    width: 180px;
+    height: 80px;
+    font-size: 18px;
+    position: relative;
+    right: -200px;
+    top: -155px;
+}
+
+.Prev-Button:hover{
+    background-color: #aaa9a9;
+}
+
+.Today-Button{
+    font-size: 18px;
+    font-family: Segoe UI, Tahoma, Geneva, Verdana, 'sans-serif';
+    position: relative;
+    right: -400px;
+    top: -225px;
+}
+
+.Future-Button{
+    background-color: #737373;
+    border-width: 0px;
+    width: 180px;
+    height: 80px;
+    font-size: 18px;
+    position: relative;
+    right: -520px;
+    top: -295px;
+}
+
+.Future-Button:hover{
+    background-color: #aaa9a9;
+}
+
+.About-Page{
+    position: relative;
+    right: -690px;
+    top: -344px;
+    color: black;
+    
+}
+
+.Content-Page{
+    width: 800px;
+    height: 1400px;
+    background-color: #f1f1f1;
+    margin-left: 20%;
+    position: relative;
+    top: -40px;
+}
+.Video{
+    position: relative;
+    right: -10px;
+    bottom: -0px;
+}
+.Vid-Title{
+font-size: 30px;
+position: relative;
+right: -10px;
+}
+.credit{
+    position: relative;
+    top: -270px;
+    right: -10px;
+}
+
+.article-text{
+font-size: 20px;
+position: relative;
+right: -80px;
+
+}
+
+.scroll{
+    background-color: #ffffff;
+    width: 600px;
+    height: 550px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align: center;
+    position: relative;
+    right: -80px;
+    padding: 20px;
+}
+.Daily-FF{
+    position: relative;
+    top: -1300px;
+    right: -470px;
+    border-radius: 2px;
+    border-color: black;
+}
+
+text{
+font-size: 30px;
+}
+table {
+    width: 450px;
+    border-collapse: collapse;
+    margin-top: 8px;
+}
+
+th, td {
+    border: 1px solid #000000;
+    color: #ffffff;
+    background-color: #9386ad;
+    padding: 10px;
+    text-align: left;
+}
+
+
+th {
+    background-color: #9386ad;
+}
+
+.TOSP{
+    position: relative;
+    top: -600px;
+    right: -450px;
+
+}
+.TOSP1{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.TOSP2{
+    position: relative;
+    right: -100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.TOSP3{
+    position: relative;
+    right: 225px;
+    font-size: 25px;
+ text-align: center;
+}
